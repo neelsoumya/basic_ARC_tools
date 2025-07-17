@@ -2,7 +2,7 @@
 Function to plot ARC/ConceptARC tasks given json file
 
 Usage:
-     python arcvis.py AboveBelow1.json
+     python arcvis.py
 
 Author: Soumya Banerjee
 """
